@@ -1,0 +1,46 @@
+{
+  "name": "Alex's Reader",
+  "identifier": "dev.alex.reader.source",
+  "subtitle": "One app, kept fresh.",
+  "description": "The private build of Reader, published for the people it was made for.",
+  "iconURL": "https://alexazartsev.github.io/reader-dist/icon.png",
+  "website": "https://alexazartsev.github.io/reader-dist/",
+  "tintColor": "#d9b483",
+  "sourceURL": "https://alexazartsev.github.io/reader-dist/source.json",
+  "apps": [
+    {
+      "name": "Reader",
+      "bundleIdentifier": "dev.alex.reader",
+      "developerName": "Alex",
+      "subtitle": "Books, catalogs, and volume-key page turns.",
+      "localizedDescription": "A personal e-book reader. Reads EPUB, FB2, MOBI, AZW3 and CBZ, pulls books from any OPDS catalog, and turns pages with a swipe, a tap or the hardware volume keys. The page is set like a printed one: a running head, a text block and a folio, in six themes.",
+      "iconURL": "https://alexazartsev.github.io/reader-dist/icon.png",
+      "tintColor": "#d9b483",
+      "category": "utilities",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "51",
+          "date": "2026-08-29T14:59:02.471Z",
+          "localizedDescription": "fix(reader): folio stability, paging with the chrome up, and a shelf that finds Cyrillic (#4)",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.1.0/Reader-0.1.0.ipa",
+          "size": 3777372,
+          "sha256": "f11b3c0d09d0facf7da9d248fadf4be88c041c8f9645e89bf463c1e3a0a7f511",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "0.1.0",
+      "buildVersion": "51",
+      "versionDate": "2026-08-29T14:59:02.471Z",
+      "versionDescription": "fix(reader): folio stability, paging with the chrome up, and a shelf that finds Cyrillic (#4)",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.1.0/Reader-0.1.0.ipa",
+      "size": 3777372
+    }
+  ],
+  "news": []
+}
