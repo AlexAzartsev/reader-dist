@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Reader</title>
+<style>
+  :root { color-scheme: dark; --page: #433b30; --ink: #f8f2e6; --muted: #c9c1b4; --accent: #d9b483; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--page); color: var(--ink);
+    font: 17px/1.55 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;
+    padding: max(3rem, env(safe-area-inset-top)) 1.5rem max(3rem, env(safe-area-inset-bottom));
+    display: flex; justify-content: center;
+  }
+  main { width: 100%; max-width: 30rem; }
+  img.icon { width: 88px; height: 88px; border-radius: 20px; display: block; }
+  h1 { font-size: 1.75rem; margin: 1.25rem 0 .25rem; letter-spacing: -0.01em; }
+  p.lede { color: var(--muted); margin: 0 0 2rem; }
+  a.add {
+    display: block; text-align: center; text-decoration: none;
+    background: var(--accent); color: var(--page); font-weight: 600;
+    padding: .9rem 1rem; border-radius: 12px; margin: 0 0 .75rem;
+  }
+  p.fallback { color: var(--muted); font-size: .9rem; margin: 0 0 2.5rem; }
+  code {
+    display: block; word-break: break-all; margin-top: .4rem;
+    font: .8rem/1.5 ui-monospace, SFMono-Regular, Menlo, monospace;
+    color: var(--ink); background: rgba(0,0,0,.22); padding: .6rem .7rem; border-radius: 8px;
+  }
+  h2 { font-size: .8rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 .75rem; font-weight: 600; }
+  ol { margin: 0; padding-left: 1.25rem; }
+  li { margin-bottom: .6rem; }
+  li::marker { color: var(--accent); }
+  a { color: var(--accent); }
+  footer { margin-top: 2.5rem; color: var(--muted); font-size: .85rem; border-top: 1px solid rgba(248,242,230,.14); padding-top: 1.25rem; }
+</style>
+</head>
+<body>
+<main>
+  <img class="icon" src="icon.png" alt="">
+  <h1>Reader</h1>
+  <p class="lede">Books, catalogs, and volume-key page turns.</p>
+
+  <a class="add" href="sidestore://source?url=https://alexazartsev.github.io/reader-dist/source.json">Add to SideStore</a>
+  <p class="fallback">
+    Only works once SideStore is installed. If nothing happens, add this by hand
+    under Sources → +
+    <code>https://alexazartsev.github.io/reader-dist/source.json</code>
+  </p>
+
+  <h2>First time</h2>
+  <ol>
+    <li>Install <a href="https://sidestore.io">SideStore</a> — it needs a computer once, to make a pairing file.</li>
+    <li>Open SideStore → <b>Sources</b> → <b>+</b> → paste the address above.</li>
+    <li>Open <b>Reader</b> in that source and tap <b>Free</b> to install.</li>
+  </ol>
+
+  <h2>Keeping it alive</h2>
+  <ol>
+    <li>A free Apple ID signs an app for <b>7 days</b>. SideStore re-signs it on the phone before that runs out.</li>
+    <li>Open SideStore every few days and let it refresh. Nothing is lost if it lapses — reinstalling keeps the library.</li>
+    <li>When a new version is published it shows up here as an update.</li>
+  </ol>
+
+  <footer>Not on the App Store, and never will be. One reader, one phone.</footer>
+</main>
+</body>
+</html>
