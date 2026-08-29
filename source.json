@@ -24,6 +24,16 @@
       },
       "versions": [
         {
+          "version": "0.2.0",
+          "buildVersion": "58",
+          "date": "2026-08-29T20:43:48.496Z",
+          "localizedDescription": "Tap a picture in a book to open it full screen — pinch or double-tap for a closer look.\nTap the small number beside a word to read its note, and the button in the corner brings you back to the page you were on.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.2.0/Reader-0.2.0.ipa",
+          "size": 4004457,
+          "sha256": "32ca30494c531a2bf0d7ba08117ad18076e82dbb3198ad54674ba5bc07481a27",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.1.1",
           "buildVersion": "53",
           "date": "2026-08-29T15:53:12.189Z",
@@ -44,12 +54,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.1.1",
-      "buildVersion": "53",
-      "versionDate": "2026-08-29T15:53:12.189Z",
-      "versionDescription": "A proper app icon — a walnut page, instead of the blue placeholder.\nNothing else in the app has changed.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.1.1/Reader-0.1.1.ipa",
-      "size": 3990268
+      "version": "0.2.0",
+      "buildVersion": "58",
+      "versionDate": "2026-08-29T20:43:48.496Z",
+      "versionDescription": "Tap a picture in a book to open it full screen — pinch or double-tap for a closer look.\nTap the small number beside a word to read its note, and the button in the corner brings you back to the page you were on.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.2.0/Reader-0.2.0.ipa",
+      "size": 4004457
     }
   ],
   "news": []
