@@ -24,6 +24,16 @@
       },
       "versions": [
         {
+          "version": "0.1.1",
+          "buildVersion": "53",
+          "date": "2026-08-29T15:53:12.189Z",
+          "localizedDescription": "A proper app icon — a walnut page, instead of the blue placeholder.\nNothing else in the app has changed.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.1.1/Reader-0.1.1.ipa",
+          "size": 3990268,
+          "sha256": "d8f0a94c7bc93b9e56fdbf288ed008e58ef71ddb3b9b046010f4be2ebfbe0fc5",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.1.0",
           "buildVersion": "51",
           "date": "2026-08-29T14:59:02.471Z",
@@ -34,12 +44,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.1.0",
-      "buildVersion": "51",
-      "versionDate": "2026-08-29T14:59:02.471Z",
-      "versionDescription": "fix(reader): folio stability, paging with the chrome up, and a shelf that finds Cyrillic (#4)",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.1.0/Reader-0.1.0.ipa",
-      "size": 3777372
+      "version": "0.1.1",
+      "buildVersion": "53",
+      "versionDate": "2026-08-29T15:53:12.189Z",
+      "versionDescription": "A proper app icon — a walnut page, instead of the blue placeholder.\nNothing else in the app has changed.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.1.1/Reader-0.1.1.ipa",
+      "size": 3990268
     }
   ],
   "news": []
