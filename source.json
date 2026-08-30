@@ -24,6 +24,16 @@
       },
       "versions": [
         {
+          "version": "0.3.0",
+          "buildVersion": "63",
+          "date": "2026-08-30T14:18:42.065Z",
+          "localizedDescription": "Bookmark the page you are on with the ribbon at the top, and get back to it from the contents.\nChoose how a page turns — it can slide, lift off the top, or lay the next page over it.\nScrolling instead of pages now really scrolls: drag the text with your finger and it carries on when you let go.\nFixed a theme change leaving the old colour around the edges of the page, and a picker that offered nothing but ZIP files.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.3.0/Reader-0.3.0.ipa",
+          "size": 4030951,
+          "sha256": "ede8e8a1362d61162bbebe567a9e2dd262bf39439b5f42fa319fe15bd827f306",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.2.0",
           "buildVersion": "58",
           "date": "2026-08-29T20:43:48.496Z",
@@ -47,19 +57,19 @@
           "version": "0.1.0",
           "buildVersion": "51",
           "date": "2026-08-29T14:59:02.471Z",
-          "localizedDescription": "fix(reader): folio stability, paging with the chrome up, and a shelf that finds Cyrillic (#4)",
+          "localizedDescription": "The first build: your own shelf, the catalogs you pull books from, and a page set like a printed one — running head, text block, page number.\nPage numbers stopped drifting when you crossed into a new chapter, the controls no longer swallow a page turn, and the shelf finds Cyrillic titles.",
           "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.1.0/Reader-0.1.0.ipa",
           "size": 3777372,
           "sha256": "f11b3c0d09d0facf7da9d248fadf4be88c041c8f9645e89bf463c1e3a0a7f511",
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.2.0",
-      "buildVersion": "58",
-      "versionDate": "2026-08-29T20:43:48.496Z",
-      "versionDescription": "Tap a picture in a book to open it full screen — pinch or double-tap for a closer look.\nTap the small number beside a word to read its note, and the button in the corner brings you back to the page you were on.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.2.0/Reader-0.2.0.ipa",
-      "size": 4004457
+      "version": "0.3.0",
+      "buildVersion": "63",
+      "versionDate": "2026-08-30T14:18:42.065Z",
+      "versionDescription": "Bookmark the page you are on with the ribbon at the top, and get back to it from the contents.\nChoose how a page turns — it can slide, lift off the top, or lay the next page over it.\nScrolling instead of pages now really scrolls: drag the text with your finger and it carries on when you let go.\nFixed a theme change leaving the old colour around the edges of the page, and a picker that offered nothing but ZIP files.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.3.0/Reader-0.3.0.ipa",
+      "size": 4030951
     }
   ],
   "news": []
