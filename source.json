@@ -24,6 +24,16 @@
       },
       "versions": [
         {
+          "version": "0.4.0",
+          "buildVersion": "73",
+          "date": "2026-08-30T18:53:03.275Z",
+          "localizedDescription": "A new Stats tab counts your reading: how long, on which days, how fast, and how many days in a row you have kept it up.\nEvery book gets a page of that too, down to how much longer it will take at the pace you actually read.\nSave your whole library — books, bookmarks and where you are in each one — into a single file you can keep in iCloud Drive, then put it back on any phone.\nThe app now speaks Ukrainian and Russian as well as English, following your phone unless you choose for yourself in Settings.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.4.0/Reader-0.4.0.ipa",
+          "size": 4187714,
+          "sha256": "a8a1a71b2652a278d2fadc7acbc8b84f28a923f8192d5b39e5a65a6fd21794d5",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.3.0",
           "buildVersion": "63",
           "date": "2026-08-30T14:18:42.065Z",
@@ -64,12 +74,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.3.0",
-      "buildVersion": "63",
-      "versionDate": "2026-08-30T14:18:42.065Z",
-      "versionDescription": "Bookmark the page you are on with the ribbon at the top, and get back to it from the contents.\nChoose how a page turns — it can slide, lift off the top, or lay the next page over it.\nScrolling instead of pages now really scrolls: drag the text with your finger and it carries on when you let go.\nFixed a theme change leaving the old colour around the edges of the page, and a picker that offered nothing but ZIP files.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.3.0/Reader-0.3.0.ipa",
-      "size": 4030951
+      "version": "0.4.0",
+      "buildVersion": "73",
+      "versionDate": "2026-08-30T18:53:03.275Z",
+      "versionDescription": "A new Stats tab counts your reading: how long, on which days, how fast, and how many days in a row you have kept it up.\nEvery book gets a page of that too, down to how much longer it will take at the pace you actually read.\nSave your whole library — books, bookmarks and where you are in each one — into a single file you can keep in iCloud Drive, then put it back on any phone.\nThe app now speaks Ukrainian and Russian as well as English, following your phone unless you choose for yourself in Settings.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.4.0/Reader-0.4.0.ipa",
+      "size": 4187714
     }
   ],
   "news": []
