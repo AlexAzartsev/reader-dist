@@ -26,6 +26,16 @@
       },
       "versions": [
         {
+          "version": "0.7.0",
+          "buildVersion": "88",
+          "date": "2026-08-31T22:09:55.410Z",
+          "localizedDescription": "Libraries that ask you to sign in now work: the password is asked for in the app and remembered, and it holds for the searches, covers and books behind it. Standard Ebooks is one of them.\nMarking a book read no longer takes the year as your whole answer and shuts the calendar. Pick the date, then tap to use it — and the months are in your language, with weeks starting on Monday.\nBooks you have finished are their own group at the foot of your shelf now, most recently finished first, so a library marked read in one afternoon is in the order you actually finished things.\nPictures in a library you browse no longer come out stretched, and one that never arrives leaves no broken icon behind.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.7.0/Reader-0.7.0.ipa",
+          "size": 4360136,
+          "sha256": "9143e6de00666bab70f7dbc73c72b860e46f1cadf9301104bb5917596661367d",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.6.0",
           "buildVersion": "83",
           "date": "2026-08-31T12:01:18.529Z",
@@ -96,12 +106,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.6.0",
-      "buildVersion": "83",
-      "versionDate": "2026-08-31T12:01:18.529Z",
-      "versionDescription": "Your reading now sits on the Home Screen. Add the Reader widget and your run of days, today's reading and how much of your daily goal is behind you are there without opening anything.\nThree sizes: the smallest holds the streak and today, the largest adds this week and the book you are part-way through — tap that one to carry straight on reading.\nThe widget takes whichever reading theme you use, and is written in your own language.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.6.0/Reader-0.6.0.ipa",
-      "size": 4339430
+      "version": "0.7.0",
+      "buildVersion": "88",
+      "versionDate": "2026-08-31T22:09:55.410Z",
+      "versionDescription": "Libraries that ask you to sign in now work: the password is asked for in the app and remembered, and it holds for the searches, covers and books behind it. Standard Ebooks is one of them.\nMarking a book read no longer takes the year as your whole answer and shuts the calendar. Pick the date, then tap to use it — and the months are in your language, with weeks starting on Monday.\nBooks you have finished are their own group at the foot of your shelf now, most recently finished first, so a library marked read in one afternoon is in the order you actually finished things.\nPictures in a library you browse no longer come out stretched, and one that never arrives leaves no broken icon behind.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.7.0/Reader-0.7.0.ipa",
+      "size": 4360136
     }
   ],
   "news": []
