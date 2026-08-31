@@ -19,10 +19,22 @@
       "category": "utilities",
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "keychain-access-groups"
+        ],
         "privacy": {}
       },
       "versions": [
+        {
+          "version": "0.6.0",
+          "buildVersion": "83",
+          "date": "2026-08-31T12:01:18.529Z",
+          "localizedDescription": "Your reading now sits on the Home Screen. Add the Reader widget and your run of days, today's reading and how much of your daily goal is behind you are there without opening anything.\nThree sizes: the smallest holds the streak and today, the largest adds this week and the book you are part-way through — tap that one to carry straight on reading.\nThe widget takes whichever reading theme you use, and is written in your own language.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.6.0/Reader-0.6.0.ipa",
+          "size": 4339430,
+          "sha256": "1ef9ea0121c17733f5b9bd5eb9e42b9f24b5bf15b277dd462ad4ca4b7741bb46",
+          "minOSVersion": "15.0"
+        },
         {
           "version": "0.5.0",
           "buildVersion": "81",
@@ -84,12 +96,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.5.0",
-      "buildVersion": "81",
-      "versionDate": "2026-08-31T10:49:57.439Z",
-      "versionDescription": "Arrange your books onto shelves you name yourself — hold a book to lift it and drag it onto one, and a book can sit on as many shelves as you like.\nSend a book to somebody, or save it into Files and so to iCloud Drive, from the book's own menu.\nMarking a book read now asks when you finished it, so the ones you read years ago land on the right day rather than today. You can change the date later from the book's page.\nA book's reading figures are one tap from the shelf, the type settings can be put back the way they came, and today's total fits inside the goal circle again in Ukrainian and Russian.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.5.0/Reader-0.5.0.ipa",
-      "size": 4243686
+      "version": "0.6.0",
+      "buildVersion": "83",
+      "versionDate": "2026-08-31T12:01:18.529Z",
+      "versionDescription": "Your reading now sits on the Home Screen. Add the Reader widget and your run of days, today's reading and how much of your daily goal is behind you are there without opening anything.\nThree sizes: the smallest holds the streak and today, the largest adds this week and the book you are part-way through — tap that one to carry straight on reading.\nThe widget takes whichever reading theme you use, and is written in your own language.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.6.0/Reader-0.6.0.ipa",
+      "size": 4339430
     }
   ],
   "news": []
