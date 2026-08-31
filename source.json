@@ -24,6 +24,16 @@
       },
       "versions": [
         {
+          "version": "0.5.0",
+          "buildVersion": "81",
+          "date": "2026-08-31T10:49:57.439Z",
+          "localizedDescription": "Arrange your books onto shelves you name yourself — hold a book to lift it and drag it onto one, and a book can sit on as many shelves as you like.\nSend a book to somebody, or save it into Files and so to iCloud Drive, from the book's own menu.\nMarking a book read now asks when you finished it, so the ones you read years ago land on the right day rather than today. You can change the date later from the book's page.\nA book's reading figures are one tap from the shelf, the type settings can be put back the way they came, and today's total fits inside the goal circle again in Ukrainian and Russian.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.5.0/Reader-0.5.0.ipa",
+          "size": 4243686,
+          "sha256": "6a9448781dbaa94d46a9096b4a96827c02d7ffdfbf45dc953b2c5870375e0a77",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.4.0",
           "buildVersion": "73",
           "date": "2026-08-30T18:53:03.275Z",
@@ -74,12 +84,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.4.0",
-      "buildVersion": "73",
-      "versionDate": "2026-08-30T18:53:03.275Z",
-      "versionDescription": "A new Stats tab counts your reading: how long, on which days, how fast, and how many days in a row you have kept it up.\nEvery book gets a page of that too, down to how much longer it will take at the pace you actually read.\nSave your whole library — books, bookmarks and where you are in each one — into a single file you can keep in iCloud Drive, then put it back on any phone.\nThe app now speaks Ukrainian and Russian as well as English, following your phone unless you choose for yourself in Settings.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.4.0/Reader-0.4.0.ipa",
-      "size": 4187714
+      "version": "0.5.0",
+      "buildVersion": "81",
+      "versionDate": "2026-08-31T10:49:57.439Z",
+      "versionDescription": "Arrange your books onto shelves you name yourself — hold a book to lift it and drag it onto one, and a book can sit on as many shelves as you like.\nSend a book to somebody, or save it into Files and so to iCloud Drive, from the book's own menu.\nMarking a book read now asks when you finished it, so the ones you read years ago land on the right day rather than today. You can change the date later from the book's page.\nA book's reading figures are one tap from the shelf, the type settings can be put back the way they came, and today's total fits inside the goal circle again in Ukrainian and Russian.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.5.0/Reader-0.5.0.ipa",
+      "size": 4243686
     }
   ],
   "news": []
