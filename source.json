@@ -26,6 +26,16 @@
       },
       "versions": [
         {
+          "version": "0.8.0",
+          "buildVersion": "96",
+          "date": "2026-09-02T13:45:37.750Z",
+          "localizedDescription": "A book you have been sent goes straight onto your shelf now: tap Share wherever it arrived — Telegram, Mail, Files, a browser — and pick Reader. If it is a book you already have, it asks whether to replace your copy, keep both, or leave it alone.\nTapping a footnote no longer finishes the book. Following one to the notes at the back and coming straight back used to mark it read, date it today and file it away with the books you have finished.\nAn evening of reading counts as one sitting again rather than several, and what a sitting was worth is the reading you did in it instead of every jump. Sittings were too many and too short, and the hour-in-one-sitting badge now unlocks when you have earned it.\nSwitches, and the tick on a badge you have earned, take their colour from the page you read on instead of coming out hard black in the warmer themes.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.8.0/Reader-0.8.0.ipa",
+          "size": 4383076,
+          "sha256": "f1debd88c20b7692d2d0868120d4f7547dcb22722db08486f5a5ada1346b0a54",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.7.0",
           "buildVersion": "88",
           "date": "2026-08-31T22:09:55.410Z",
@@ -106,12 +116,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.7.0",
-      "buildVersion": "88",
-      "versionDate": "2026-08-31T22:09:55.410Z",
-      "versionDescription": "Libraries that ask you to sign in now work: the password is asked for in the app and remembered, and it holds for the searches, covers and books behind it. Standard Ebooks is one of them.\nMarking a book read no longer takes the year as your whole answer and shuts the calendar. Pick the date, then tap to use it — and the months are in your language, with weeks starting on Monday.\nBooks you have finished are their own group at the foot of your shelf now, most recently finished first, so a library marked read in one afternoon is in the order you actually finished things.\nPictures in a library you browse no longer come out stretched, and one that never arrives leaves no broken icon behind.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.7.0/Reader-0.7.0.ipa",
-      "size": 4360136
+      "version": "0.8.0",
+      "buildVersion": "96",
+      "versionDate": "2026-09-02T13:45:37.750Z",
+      "versionDescription": "A book you have been sent goes straight onto your shelf now: tap Share wherever it arrived — Telegram, Mail, Files, a browser — and pick Reader. If it is a book you already have, it asks whether to replace your copy, keep both, or leave it alone.\nTapping a footnote no longer finishes the book. Following one to the notes at the back and coming straight back used to mark it read, date it today and file it away with the books you have finished.\nAn evening of reading counts as one sitting again rather than several, and what a sitting was worth is the reading you did in it instead of every jump. Sittings were too many and too short, and the hour-in-one-sitting badge now unlocks when you have earned it.\nSwitches, and the tick on a badge you have earned, take their colour from the page you read on instead of coming out hard black in the warmer themes.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.8.0/Reader-0.8.0.ipa",
+      "size": 4383076
     }
   ],
   "news": []
