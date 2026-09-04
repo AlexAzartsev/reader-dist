@@ -28,6 +28,16 @@
       },
       "versions": [
         {
+          "version": "0.9.1",
+          "buildVersion": "103",
+          "date": "2026-09-04T15:34:08.526Z",
+          "localizedDescription": "Walking with a book open no longer turns pages by itself. Head turns now wait until the phone is holding still, and start working again a moment after you stop.\nThe dot at the top of the page goes hollow while they are waiting, so you can tell. Blinks and the tongue are unaffected — they work on the move as they always did.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.9.1/Reader-0.9.1.ipa",
+          "size": 4414200,
+          "sha256": "70f8e9a79e36089bcb8f554bbb9d2b76e6d745430cbc8bdf698893098c7ef056",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.9.0",
           "buildVersion": "100",
           "date": "2026-09-04T10:40:46.066Z",
@@ -128,12 +138,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.9.0",
-      "buildVersion": "100",
-      "versionDate": "2026-09-04T10:40:46.066Z",
-      "versionDescription": "Turn pages without touching the phone: hold a blink, turn your head, or put your tongue out. Every gesture is off until you switch it on, in Settings under Camera, and you choose what each one does.\nThe phone taps you when a page has turned, so you know it worked without opening your eyes.\nBefore you switch any of it on: the front camera runs the whole time a book is open, which costs battery. Nothing is recorded and nothing leaves the phone.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.9.0/Reader-0.9.0.ipa",
-      "size": 4407977
+      "version": "0.9.1",
+      "buildVersion": "103",
+      "versionDate": "2026-09-04T15:34:08.526Z",
+      "versionDescription": "Walking with a book open no longer turns pages by itself. Head turns now wait until the phone is holding still, and start working again a moment after you stop.\nThe dot at the top of the page goes hollow while they are waiting, so you can tell. Blinks and the tongue are unaffected — they work on the move as they always did.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.9.1/Reader-0.9.1.ipa",
+      "size": 4414200
     }
   ],
   "news": []
