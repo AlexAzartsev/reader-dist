@@ -22,9 +22,21 @@
         "entitlements": [
           "keychain-access-groups"
         ],
-        "privacy": {}
+        "privacy": {
+          "NSCameraUsageDescription": "Reader watches the front camera for a held blink and turns the page. It runs only while a book is open, nothing is recorded, and nothing leaves this phone."
+        }
       },
       "versions": [
+        {
+          "version": "0.9.0",
+          "buildVersion": "100",
+          "date": "2026-09-04T10:40:46.066Z",
+          "localizedDescription": "Turn pages without touching the phone: hold a blink, turn your head, or put your tongue out. Every gesture is off until you switch it on, in Settings under Camera, and you choose what each one does.\nThe phone taps you when a page has turned, so you know it worked without opening your eyes.\nBefore you switch any of it on: the front camera runs the whole time a book is open, which costs battery. Nothing is recorded and nothing leaves the phone.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.9.0/Reader-0.9.0.ipa",
+          "size": 4407977,
+          "sha256": "028589c2d62f190318b715a89c8dcf2ed4af60f84f1ad9078af187d43c343b62",
+          "minOSVersion": "15.0"
+        },
         {
           "version": "0.8.0",
           "buildVersion": "96",
@@ -116,12 +128,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.8.0",
-      "buildVersion": "96",
-      "versionDate": "2026-09-02T13:45:37.750Z",
-      "versionDescription": "A book you have been sent goes straight onto your shelf now: tap Share wherever it arrived — Telegram, Mail, Files, a browser — and pick Reader. If it is a book you already have, it asks whether to replace your copy, keep both, or leave it alone.\nTapping a footnote no longer finishes the book. Following one to the notes at the back and coming straight back used to mark it read, date it today and file it away with the books you have finished.\nAn evening of reading counts as one sitting again rather than several, and what a sitting was worth is the reading you did in it instead of every jump. Sittings were too many and too short, and the hour-in-one-sitting badge now unlocks when you have earned it.\nSwitches, and the tick on a badge you have earned, take their colour from the page you read on instead of coming out hard black in the warmer themes.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.8.0/Reader-0.8.0.ipa",
-      "size": 4383076
+      "version": "0.9.0",
+      "buildVersion": "100",
+      "versionDate": "2026-09-04T10:40:46.066Z",
+      "versionDescription": "Turn pages without touching the phone: hold a blink, turn your head, or put your tongue out. Every gesture is off until you switch it on, in Settings under Camera, and you choose what each one does.\nThe phone taps you when a page has turned, so you know it worked without opening your eyes.\nBefore you switch any of it on: the front camera runs the whole time a book is open, which costs battery. Nothing is recorded and nothing leaves the phone.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.9.0/Reader-0.9.0.ipa",
+      "size": 4407977
     }
   ],
   "news": []
