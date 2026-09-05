@@ -28,6 +28,16 @@
       },
       "versions": [
         {
+          "version": "0.11.0",
+          "buildVersion": "109",
+          "date": "2026-09-05T16:56:04.242Z",
+          "localizedDescription": "New at the bottom of Statistics: Ask ChatGPT. Preview and copy or share a request based on your reading history to discover books outside your library. Nothing is sent until you choose to share.\nRate books from one to five stars when marking them read, or change the rating later in reading history. Your ratings are saved in backups and included in ChatGPT requests.\nAll finished and unstarted books are selected by default, including books you marked read manually. You can leave out any books before sharing; book files, notes and bookmarks stay out of the request.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.11.0/Reader-0.11.0.ipa",
+          "size": 4477378,
+          "sha256": "e74d5c36c09129fbb5be02abdc595f24f8812069deeef77acc3731b7354fb642",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.10.0",
           "buildVersion": "105",
           "date": "2026-09-05T07:24:27.561Z",
@@ -148,12 +158,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.10.0",
-      "buildVersion": "105",
-      "versionDate": "2026-09-05T07:24:27.561Z",
-      "versionDescription": "Fixed blinks and tongue gestures being refused when the camera reads your face unsteadily — lying down, or in a dim room.\nHead turns are no longer paused by simply holding the phone. Only real movement pauses them now, and a knock costs a third of a second rather than the second and a bit it used to.\nNew under Settings → Camera: Show what the camera sees. A small readout over the page saying whether the camera can see your face and how close a gesture came — for when one does nothing and you cannot tell why.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.10.0/Reader-0.10.0.ipa",
-      "size": 4433722
+      "version": "0.11.0",
+      "buildVersion": "109",
+      "versionDate": "2026-09-05T16:56:04.242Z",
+      "versionDescription": "New at the bottom of Statistics: Ask ChatGPT. Preview and copy or share a request based on your reading history to discover books outside your library. Nothing is sent until you choose to share.\nRate books from one to five stars when marking them read, or change the rating later in reading history. Your ratings are saved in backups and included in ChatGPT requests.\nAll finished and unstarted books are selected by default, including books you marked read manually. You can leave out any books before sharing; book files, notes and bookmarks stay out of the request.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.11.0/Reader-0.11.0.ipa",
+      "size": 4477378
     }
   ],
   "news": []
