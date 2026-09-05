@@ -28,6 +28,16 @@
       },
       "versions": [
         {
+          "version": "0.10.0",
+          "buildVersion": "105",
+          "date": "2026-09-05T07:24:27.561Z",
+          "localizedDescription": "Fixed blinks and tongue gestures being refused when the camera reads your face unsteadily — lying down, or in a dim room.\nHead turns are no longer paused by simply holding the phone. Only real movement pauses them now, and a knock costs a third of a second rather than the second and a bit it used to.\nNew under Settings → Camera: Show what the camera sees. A small readout over the page saying whether the camera can see your face and how close a gesture came — for when one does nothing and you cannot tell why.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.10.0/Reader-0.10.0.ipa",
+          "size": 4433722,
+          "sha256": "04ad0f04aa9691b7c42bba9549de5f9943ae7146a6fbc0b31ffd4af7bdc4515e",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.9.1",
           "buildVersion": "103",
           "date": "2026-09-04T15:34:08.526Z",
@@ -138,12 +148,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.9.1",
-      "buildVersion": "103",
-      "versionDate": "2026-09-04T15:34:08.526Z",
-      "versionDescription": "Walking with a book open no longer turns pages by itself. Head turns now wait until the phone is holding still, and start working again a moment after you stop.\nThe dot at the top of the page goes hollow while they are waiting, so you can tell. Blinks and the tongue are unaffected — they work on the move as they always did.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.9.1/Reader-0.9.1.ipa",
-      "size": 4414200
+      "version": "0.10.0",
+      "buildVersion": "105",
+      "versionDate": "2026-09-05T07:24:27.561Z",
+      "versionDescription": "Fixed blinks and tongue gestures being refused when the camera reads your face unsteadily — lying down, or in a dim room.\nHead turns are no longer paused by simply holding the phone. Only real movement pauses them now, and a knock costs a third of a second rather than the second and a bit it used to.\nNew under Settings → Camera: Show what the camera sees. A small readout over the page saying whether the camera can see your face and how close a gesture came — for when one does nothing and you cannot tell why.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.10.0/Reader-0.10.0.ipa",
+      "size": 4433722
     }
   ],
   "news": []
