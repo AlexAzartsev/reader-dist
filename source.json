@@ -28,6 +28,16 @@
       },
       "versions": [
         {
+          "version": "0.11.1",
+          "buildVersion": "112",
+          "date": "2026-09-05T19:22:24.519Z",
+          "localizedDescription": "Different editions with the same title can now be downloaded separately, and only the selected edition shows download progress. Older downloads may be added again once because their exact edition was not recorded.\nBook downloads retry temporary failures and try the catalog's mirrors. A stalled connection or missing cover no longer leaves you waiting indefinitely; retries start the download again.\nPull down on a catalog error to try the request again. Refreshing shows one loading indicator, and long page titles no longer overlap the Back button.\nAfter marking a book read today or without a date, choose a star rating or skip it. The book stays marked as read either way.",
+          "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.11.1/Reader-0.11.1.ipa",
+          "size": 4484706,
+          "sha256": "f0b34bf13f05ee85188c581a5a5b9f7a8b6ba182fa2fcf66d1faf0cbfa98dfec",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.11.0",
           "buildVersion": "109",
           "date": "2026-09-05T16:56:04.242Z",
@@ -158,12 +168,12 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "0.11.0",
-      "buildVersion": "109",
-      "versionDate": "2026-09-05T16:56:04.242Z",
-      "versionDescription": "New at the bottom of Statistics: Ask ChatGPT. Preview and copy or share a request based on your reading history to discover books outside your library. Nothing is sent until you choose to share.\nRate books from one to five stars when marking them read, or change the rating later in reading history. Your ratings are saved in backups and included in ChatGPT requests.\nAll finished and unstarted books are selected by default, including books you marked read manually. You can leave out any books before sharing; book files, notes and bookmarks stay out of the request.",
-      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.11.0/Reader-0.11.0.ipa",
-      "size": 4477378
+      "version": "0.11.1",
+      "buildVersion": "112",
+      "versionDate": "2026-09-05T19:22:24.519Z",
+      "versionDescription": "Different editions with the same title can now be downloaded separately, and only the selected edition shows download progress. Older downloads may be added again once because their exact edition was not recorded.\nBook downloads retry temporary failures and try the catalog's mirrors. A stalled connection or missing cover no longer leaves you waiting indefinitely; retries start the download again.\nPull down on a catalog error to try the request again. Refreshing shows one loading indicator, and long page titles no longer overlap the Back button.\nAfter marking a book read today or without a date, choose a star rating or skip it. The book stays marked as read either way.",
+      "downloadURL": "https://github.com/AlexAzartsev/reader-dist/releases/download/v0.11.1/Reader-0.11.1.ipa",
+      "size": 4484706
     }
   ],
   "news": []
